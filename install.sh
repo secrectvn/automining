@@ -23,7 +23,7 @@ echo " screen ./xmrig -o  chicago01.fonero.hashvault.pro:8888 -u 8xF6gw4VfP9dJWm
 #aeon.sh
 {
 echo "#!/bin/bash"
-echo " screen ./xmrig -o chicago01.aeon.hashvault.pro:7777 -u Wmtj4bX83CqahEbSCjD3dmFf52Jh2RYgo7N6Fpmz4U539coLByWfU8u2fANUaFEtjeUYfbTNTrZa6hoDcJxTTCZp2GaLnAwvb -p $(hostname):contact@nguyencon.info -k --max-cpu-usage=95 "
+echo " screen ./xmrig -o pool.aeon.hashvault.pro:7777 -u Wmtj4bX83CqahEbSCjD3dmFf52Jh2RYgo7N6Fpmz4U539coLByWfU8u2fANUaFEtjeUYfbTNTrZa6hoDcJxTTCZp2GaLnAwvb -p $(hostname):contact@nguyencon.info -k --max-cpu-usage=95 "
 } >> ~/aeon1.sh ;
 {
 echo "#!/bin/bash"
