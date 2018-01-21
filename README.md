@@ -1,6 +1,12 @@
 # SCRIPT AUTO MINING  - UBUNTU 16.04
 
 
+
+## AUTO ALL
+wget https://raw.githubusercontent.com/secrectvn/automining/master/automining.sh && chmod +x automining.sh && ./automining.sh
+
+
+
 ## AECOIN
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh  && ./install.sh && chmod +x *.sh && ./aeon1.sh 
