@@ -32,7 +32,7 @@ done
 echo -e "$grn Now pick port you want mining :$end"
 echo -e "$red You should check the port list at the website before making a selection$end $blu https://www.hashvault.pro $end"
 
-select port in  80 443 3334	3333 9000 7777 5555	8080 8888
+select port in  80 443 3334 3333 9000 7777 5555	8080 8888
 
 do
         case $port in
