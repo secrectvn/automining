@@ -51,7 +51,7 @@ read wallet
 {
 echo "#!/bin/bash"
 echo " screen ./xmrig -o  pool.$coin.hashvault.pro:$port -u $wallet -p $(hostname) -k --max-cpu-usage=95 "
-} >> ~./$coin.sh ;
+} >> /root/$coin.sh ;
 
 #SCRIPT AUTO INSTALL MINING
 #!/bin/bash
